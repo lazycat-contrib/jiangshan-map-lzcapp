@@ -1,0 +1,22 @@
+package: community.lazycat.app.jiangshan-map
+version: 1.0.0
+name: Jiangshan Atlas
+description: Interactive historical atlas of China from 403 BCE to today, 18 dynasties and 164 territory snapshots
+min_os_version: 1.5.0
+homepage: https://github.com/DeanChensj/jiangshan-map
+author: DeanChensj
+license: MIT
+locales:
+  zh:
+    name: 江山时序
+    description: 中国历史交互地图时间轴（公元前 403 年至今），18 个王朝、164 幅疆域快照，附地名沿革与诗词路线
+  zh_CN:
+    name: 江山时序
+    description: 中国历史交互地图时间轴（公元前 403 年至今），18 个王朝、164 幅疆域快照，附地名沿革与诗词路线
+  en:
+    name: Jiangshan Atlas
+    description: Interactive Historical Atlas of China across 18 dynasties with place genealogy and poetry routes
+unsupported_platforms:
+  - ios
+  - android
+  - tvos
