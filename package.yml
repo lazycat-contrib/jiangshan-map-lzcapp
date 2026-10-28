@@ -1,5 +1,5 @@
 package: community.lazycat.app.jiangshan-map
-version: 1.0.0
+version: 1.1.0
 name: Jiangshan Atlas
 description: Interactive historical atlas of China from 403 BCE to today, 18 dynasties and 164 territory snapshots
 min_os_version: 1.5.0
